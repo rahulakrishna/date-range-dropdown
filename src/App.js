@@ -17,7 +17,7 @@ const Navbar = styled.div`
 const App = () => {
   return (
     <Navbar>
-      <div className="brother">Hello</div>
+      <div className="brother">Dummy Sibling</div>
       <Datepicker />
     </Navbar>
   );
